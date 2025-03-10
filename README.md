@@ -64,37 +64,37 @@ o	Customers with a tenure of less than 12 months have the highest churn (51.6%),
 
 ## All Visuals.
 <table>
-<tr> <td>Count of Customers by Churn</td>
-<td>![1](https://github.com/user-attachments/assets/6c16f27a-b5cb-437f-92b7-f0958108c1d5)</td>
-</tr> </table>
-Percentage of Churned Customers
+Count of Customers by Churn<br>
+![1](https://github.com/user-attachments/assets/6c16f27a-b5cb-437f-92b7-f0958108c1d5)
+
+Percentage of Churned Customers<br>
 ![2](https://github.com/user-attachments/assets/9de10386-098b-46f7-ac59-509df93747cb)
 
-Churn by Gender
+Churn by Gender<br>
 ![3](https://github.com/user-attachments/assets/12952d9b-004c-42eb-ba3f-d4f487f6dfa8)
 
-Count of Customers by Senior Citizen
+Count of Customers by Senior Citizen<br>
 ![4](https://github.com/user-attachments/assets/09716d69-32dd-4fa1-83c3-841eda320f9d)
 
-Count of Customers by Tenure
+Count of Customers by Tenure<br>
 ![5](https://github.com/user-attachments/assets/0a73f2a1-97a1-443a-8640-7c451e4b53cd)
 
-Count of Customers by Contract
+Count of Customers by Contract<br>
 ![6](https://github.com/user-attachments/assets/f98ae695-8876-406b-b45b-8cfad3e5eaca)
 
-Subplot grid 1
+Subplot grid 1<br>
 ![7](https://github.com/user-attachments/assets/7ca8b067-7fac-4148-ab30-cba12cdf93b8)
 
-Subplot grid 2
+Subplot grid 2<br>
 ![8](https://github.com/user-attachments/assets/7b655da6-c7f8-4424-8c14-f4fedf774e65)
 
-Churned Customers by Payment Method
+Churned Customers by Payment Method<br>
 ![9](https://github.com/user-attachments/assets/4419c0d3-26e7-413c-8fd3-f017f2906872)
 
-Monthly Charges vs. Churn
+Monthly Charges vs. Churn<br>
 ![10](https://github.com/user-attachments/assets/1fb4f587-3515-4a48-9dc1-3a4496020db9)
 
-Customer Segmentation (Tenure vs. Monthly Charges)
+Customer Segmentation (Tenure vs. Monthly Charges)<br>
 ![11](https://github.com/user-attachments/assets/95d9a286-c4ee-4571-9d21-51bd72d3f39c)
 
 
