@@ -62,10 +62,11 @@ o	Customers paying over $70/month churn at a higher rate (32.8%).
 •	Customer Tenure Influence: 
 o	Customers with a tenure of less than 12 months have the highest churn (51.6%), while long-term customers (>36 months) have a much lower churn rate (8.2%).
 
-## All Visuals. 
-Count of Customers by Churn 
-![1](https://github.com/user-attachments/assets/6c16f27a-b5cb-437f-92b7-f0958108c1d5)
-
+## All Visuals.
+<table>
+<tr> <td>Count of Customers by Churn</td>
+<td>![1](https://github.com/user-attachments/assets/6c16f27a-b5cb-437f-92b7-f0958108c1d5)</td>
+</tr> 
 Percentage of Churned Customers
 ![2](https://github.com/user-attachments/assets/9de10386-098b-46f7-ac59-509df93747cb)
 
@@ -95,6 +96,7 @@ Monthly Charges vs. Churn
 
 Customer Segmentation (Tenure vs. Monthly Charges)
 ![11](https://github.com/user-attachments/assets/95d9a286-c4ee-4571-9d21-51bd72d3f39c)
+</table>
 
 ##Final Conclusion & Recommendations
 
