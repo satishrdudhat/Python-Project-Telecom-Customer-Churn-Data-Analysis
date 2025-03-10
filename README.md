@@ -15,55 +15,58 @@ The objective of this project is to analyze customer churn in a telecom company 
 
 To evaluate customer churn, we analyze the following key aspects:
 
-•	Churn Rate: What percentage of customers have left the service?
-•	Demographic Influence: How do gender and senior citizen status impact churn?
-•	Service-Based Churn: Which services (internet, phone, streaming, etc.) contribute to higher churn?
-•	Contract Type & Retention: Which contract types have the highest and lowest churn rates?
-•	Monthly Charges vs. Churn: Do higher monthly charges lead to more churn?
-•	Tenure & Customer Loyalty: How does customer tenure influence churn probability?
-•	Churn Prediction & Mitigation: What factors can help predict and prevent churn?
+- Churn Rate: What percentage of customers have left the service?
+- Demographic Influence: How do gender and senior citizen status impact churn?
+- Service-Based Churn: Which services (internet, phone, streaming, etc.) contribute to higher churn?
+- Contract Type & Retention: Which contract types have the highest and lowest churn rates?
+- Monthly Charges vs. Churn: Do higher monthly charges lead to more churn?
+- Tenure & Customer Loyalty: How does customer tenure influence churn probability?
+- Churn Prediction & Mitigation: What factors can help predict and prevent churn?
 
-##Process of Data Analysis
+## Process of Data Analysis
 
 1. Data Cleaning & Preprocessing:
-•	Handle missing values in Total Charges and ensure accurate data representation.
-•	Convert categorical data into numerical formats where necessary.
-•	Remove duplicates and standardize data types for consistency.
+   
+- Handle missing values in Total Charges and ensure accurate data representation.
+- Convert categorical data into numerical formats where necessary.
+- Remove duplicates and standardize data types for consistency.
 
 2. Exploratory Data Analysis (EDA):
-•	Calculate churn rates across different customer groups.
-•	Analyze service usage patterns and their impact on churn.
-•	Identify customer segments with high churn rates (e.g., contract types, monthly charges).
-•	Compute churn percentages for various demographic groups.
+
+- Calculate churn rates across different customer groups.
+- Analyze service usage patterns and their impact on churn.
+- Identify customer segments with high churn rates (e.g., contract types, monthly charges).
+- Compute churn percentages for various demographic groups.
 
 3. Visualization & Insights:
-•	Use bar charts and pie charts to display churn distribution.
-•	Create line and scatter plots to analyze tenure vs. monthly charges.
-•	Generate heatmaps to identify correlations between services and churn.
-•	Segment customers into different churn risk categories for targeted retention efforts.
+   
+- Use bar charts and pie charts to display churn distribution.
+- Create line and scatter plots to analyze tenure vs. monthly charges.
+- Generate heatmaps to identify correlations between services and churn.
+- Segment customers into different churn risk categories for targeted retention efforts.
 
-##Project Insights (Key Findings)
+## Project Insights (Key Findings)
 
-•	Overall Churn Rate: 
-o	26.5% of total customers have churned.
+- Overall Churn Rate: 
+    - 26.5% of total customers have churned.
 
-•	Demographic Influence: 
-o	Senior citizens have a significantly higher churn rate (45.1%) compared to non-senior customers (22.3%).
+- Demographic Influence: 
+    - Senior citizens have a significantly higher churn rate (45.1%) compared to non-senior customers (22.3%).
 
-•	Service-Based Churn: 
-o	Customers with internet-only plans have a higher churn rate compared to bundled service users.
+- Service-Based Churn: 
+    - Customers with internet-only plans have a higher churn rate compared to bundled service users.
 
-•	Contract Type & Retention: 
-o	Month-to-month contract customers exhibit the highest churn (42.5%), while two-year contract holders have the lowest churn (3.9%).
+- Contract Type & Retention: 
+    - Month-to-month contract customers exhibit the highest churn (42.5%), while two-year contract holders have the lowest churn (3.9%).
 
-•	Pricing Impact: 
-o	Customers paying over $70/month churn at a higher rate (32.8%).
+- Pricing Impact: 
+    - Customers paying over $70/month churn at a higher rate (32.8%).
 
-•	Customer Tenure Influence: 
-o	Customers with a tenure of less than 12 months have the highest churn (51.6%), while long-term customers (>36 months) have a much lower churn rate (8.2%).
+- Customer Tenure Influence: 
+    - Customers with a tenure of less than 12 months have the highest churn (51.6%), while long-term customers (>36 months) have a much lower churn rate (8.2%).
 
 ## All Visuals.
-<table>
+
 Count of Customers by Churn<br>
 ![1](https://github.com/user-attachments/assets/6c16f27a-b5cb-437f-92b7-f0958108c1d5)
 
@@ -98,22 +101,22 @@ Customer Segmentation (Tenure vs. Monthly Charges)<br>
 ![11](https://github.com/user-attachments/assets/95d9a286-c4ee-4571-9d21-51bd72d3f39c)
 
 
-##Final Conclusion & Recommendations
+## Final Conclusion & Recommendations
 
-•	Enhance New Customer Retention: 
-o	Provide better onboarding experiences and incentives for customers with low tenure.
+- Enhance New Customer Retention: 
+   - Provide better onboarding experiences and incentives for customers with low tenure.
 
-•	Encourage Long-Term Commitments: 
-o	Month-to-month contracts see high churn. Offer discounts on annual contracts to increase retention.
+- Encourage Long-Term Commitments: 
+   - Month-to-month contracts see high churn. Offer discounts on annual contracts to increase retention.
 
-•	Adjust Pricing Strategies: 
-o	Flexible pricing plans and customized service bundles can help retain high-churn segments.
+- Adjust Pricing Strategies: 
+   - Flexible pricing plans and customized service bundles can help retain high-churn segments.
 
-•	Improve Senior Citizen Retention: 
-o	Develop senior-friendly plans and support services to lower churn among this group.
+- Improve Senior Citizen Retention: 
+   - Develop senior-friendly plans and support services to lower churn among this group.
 
-•	Leverage Service Bundles: 
-o	Customers using multiple services (internet + phone + TV) churn less. Promote bundled offerings to reduce attrition.
+- Leverage Service Bundles: 
+   - Customers using multiple services (internet + phone + TV) churn less. Promote bundled offerings to reduce attrition.
 
 By implementing these recommendations, the telecom company can significantly reduce churn, improve customer satisfaction, and enhance revenue growth.
 
